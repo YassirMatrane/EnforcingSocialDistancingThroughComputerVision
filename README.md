@@ -43,9 +43,7 @@ Run
 python social_distanciation_video_detection.py
 ```
 You will be asked as inputs :
-- The tensorflow model you want to use (default value faster_rcnn_inception_v2_coco_2018_01_28).
-- The name of the video (default value PETS2009.avi).
-- The distance (in pixels between 2 persons).
+- The distance in centimers between 2 persons in horizontal and vertical direction
 
 # Outputs
 
