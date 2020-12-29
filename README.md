@@ -33,17 +33,19 @@ python calibrate_with_mouse.py
 ```
 You will be asked as input the name of the video and the size of the frame you want to work with. You must use the actual size of your frame !
 
+You will be also asked as inputs :
+- The distance in centimers between 2 persons in horizontal and vertical direction
+
 Note : It is important to start with the top right corner, than the bottom right, then bottom left, than end by top left corner !
 
 You can add any video to the video folder and work with that.
+
 
 ### Start social distancing detection
 Run 
 ```bash
 python social_distanciation_video_detection.py
 ```
-You will be asked as inputs :
-- The distance in centimers between 2 persons in horizontal and vertical direction
 
 # Outputs
 
