@@ -31,7 +31,7 @@ Run
 ```bash
 python calibrate_with_mouse.py
 ```
-You will be asked as input the name of the video and the size of the frame you want to work with. The default values are PETS2009.avi and 800 pixels.
+You will be asked as input the name of the video and the size of the frame you want to work with. You must use the actual size of your frame !
 
 Note : It is important to start with the top right corner, than the bottom right, then bottom left, than end by top left corner !
 
