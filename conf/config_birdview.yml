@@ -1,0 +1,26 @@
+image_parameters:
+  hRealDistance: '330'
+  height_og: 1100
+  img_path: ../img/static_frame_from_video.jpg
+  p1:
+  - 605
+  - 611
+  p2:
+  - 109
+  - 523
+  p3:
+  - 810
+  - 107
+  p4:
+  - 629
+  - 81
+  scale_factor_points:
+  - - 559
+    - 309
+  - - 587
+    - 267
+  - - 645
+    - 319
+  size_frame: 700
+  wRealDistance: '224'
+  width_og: 618
